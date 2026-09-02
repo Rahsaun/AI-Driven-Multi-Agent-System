@@ -1,4 +1,4 @@
-# AI-Controlled-VM
+# AI-Driven Multi-Agent System
 The inspiration behind this project came from reading an artical about a lady who had to frantically run to her Mac mini because she gave full control of her Operating sytem to Open Claw and the AI Agent procded to detail files off her her computer without her permission. 
 
 ## Goal
